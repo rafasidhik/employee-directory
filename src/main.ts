@@ -16,8 +16,7 @@ const employees: EmployeeList = [
     name: "Rafa Sidhik",
     role: "Web Developer",
     department: "Engineering",
-    email: "rafasidhik@mulearn",
-    muid: "rafasidhik@mulearn"
+    email: "rafasidhik@example.com",
   },
   {
     id: 2,
