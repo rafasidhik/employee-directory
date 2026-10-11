@@ -5,7 +5,7 @@ const employees = [
         name: "Rafa Sidhik",
         role: "Web Developer",
         department: "Engineering",
-        email: "rafasidhik@mulearn",
+        email: "rafasidhik@example.com",
     },
     {
         id: 2,
